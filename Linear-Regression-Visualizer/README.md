@@ -1,5 +1,5 @@
 # Linear-Regression-AI
-This repository implements Linear Regression and Parabolic Regression from scratch in Python.</br>
+This repository implements Linear Regression from scratch in Python.</br>
 LRwithScikit is Linear Regression implemented by using predefined library "scikit-learn".</br></br>
 How to use:
 1. Open cmd
